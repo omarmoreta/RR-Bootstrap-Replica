@@ -7,7 +7,7 @@ export default function Background() {
       <div>
         <Card
           style={{
-            width: "1300px",
+            width: "80vw",
             minHeight: "428px",
             marginBottom: "50px",
             backgroundColor: "#DEEED6",
@@ -48,7 +48,7 @@ export default function Background() {
         <img
           style={{
             height: "428px",
-            width: "20%",
+            width: "20vw",
             position: "absolute",
             backgroundSize: "contain",
             backgroundRepeat: "no-repeat",
